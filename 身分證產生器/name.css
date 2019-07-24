@@ -1,0 +1,20 @@
+
+input {
+    margin: 0;
+    padding: 0;
+}
+div {
+    margin-bottom: 10px;
+}
+
+div input[type = "text"] {
+    height: 10px;
+    font-size: 12px;
+}
+測
+.btn{
+
+    float: left;
+    margin: 2px;
+
+}
